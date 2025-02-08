@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--DOCTYPE html-->
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
@@ -246,7 +246,7 @@ footer a {
    <!-- Secção 1 -->
    <section id="sect1">
      <h1>Emu: A Pedra do Infinito e do Labirinto</h1>
-     <a href="#">Espectro</a>
+     <a href="https://zonflux070.github.io/Z-nflux---Espectro/">Espectro</a>
    </section>
    <!-- Secção 2 -->
    <section id="sect2">
@@ -281,7 +281,7 @@ footer a {
    <section id="sect7">
      <div class="sect70"><h2>Os Mistérios de Emu</h2></div>
      <div class="sect70" style="text-align: center"><p>Embora seja um artefato inanimado, Emu é inútil sem um guardião. Moyo, temendo seu próprio fracasso, entrelaçou na pedra uma teia de sentimentos conflitantes, criando um labirinto mental incompreensível. Qualquer um que tentasse controlar seu poder ficaria preso em suas próprias obsessões, perdido em um ciclo eterno de desejos e ilusões.</p>
-      <a href="#">Gosth</a>
+      <a href="#">Ghost</a>
      </div>
    </section>
    <!-- Secção 8 -->
